@@ -1,0 +1,8 @@
+GITHUB PAGES UPLOAD
+
+1. Extract this ZIP file.
+2. Open the extracted folder.
+3. Select ALL files and folders INSIDE it (index.html, style.css, script.js, projects, etc.).
+4. Upload those contents to the ROOT of baamara77.github.io.
+5. Do NOT upload this ZIP file itself and do NOT upload an extra enclosing folder.
+6. Commit changes. GitHub Pages should publish from main / (root).
